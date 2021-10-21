@@ -28,11 +28,11 @@ class _MyHeaderDrawerState extends State<MyHeaderDrawer> {
             ),
           ),
           Text(
-            'Rapid Tech',
+            'Wagner Vargas Challa',
             style: TextStyle(color: Colors.white, fontSize: 20),
           ),
           Text(
-            'Infographidtech.dev',
+            'wagner.vargas@upeu.edu.pe',
             style: TextStyle(color: Colors.grey[200], fontSize: 14),
           )
         ],
